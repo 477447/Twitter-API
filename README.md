@@ -3,7 +3,8 @@ BSD 2-Clause License
 
 Copyrigt (c) 2021, 477447
 ANUSHAVAN MESROBYAN
-ppavlikovitch@yandex.ru
+amesropyan61@yandex.ru
+
 All reghts reserved.
 
 Redistribution and use in source and binary form, with or without
